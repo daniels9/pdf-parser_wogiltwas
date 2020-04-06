@@ -16,6 +16,8 @@ def readpdf(pdf):
             #rawtext.append(pagetext)
             filterpdf(pagetext)
 
+# Filterpdf should be called outside of loop - tbd
+#filterpdf(pagetext)
 #print(rawtext)
 #filterpdf(rawtext)
 #info = pageObj.getDocumentInfo()
