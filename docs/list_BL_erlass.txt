@@ -1,0 +1,24 @@
+Suchbegriff:
+"Corona Verordnung Konsolidierte Fassung" + Website des BL
+
+BY: https://www.gesetze-bayern.de/Content/Document/BayIfSMV/true   API: https://www.gesetze-bayern.de/Content/Document/BayIfSMV/true
+BW: https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/Coronainfos/200328_CoronaVO_Konsolidierte_Fassung.pdf
+BER: https://www.berlin.de/corona/massnahmen/verordnung/
+BRA: 
+BRE:
+HAM:
+HES: https://www.hessen.de/sites/default/files/media/hessen.de_land/lesefassung_coronavo_docx.pdf
+ME-VO: https://www.regierung-mv.de/static/Regierungsportal/Ministerpr%C3%A4sidentin%20und%20Staatskanzlei/Dateien/pdf-Dokumente/Verordnung%2023.3.20%20%281%29.pdf
+NIE:
+NRW:
+RP:
+SAAR:
+SACH:
+SACH-AN:
+SCHLE-HO:
+THUE:
+
+
+
+
+   
